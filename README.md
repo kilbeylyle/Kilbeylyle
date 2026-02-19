@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Lyle
 
-<!--
-**kilbeylyle/Kilbeylyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Engineer with experience working across mobile, web and integrated systems.
 
-Here are some ideas to get you started:
+I combine professional software testing experience with hands-on development in Python (Django, Flask) and JavaScript. I’m particularly interested in understanding system behaviour, investigating issues at root cause and supporting the delivery of reliable software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Focus
+
+- API Testing
+- Functional & Regression Testing
+- Backend Web Development (Python / Django)
+- Frontend Web Development (HMTL / CSS / Javascript)
+
+## Projects
+
+- **Rockdrop** – Django-based e-commerce web application (in progress)
+- **YourTube** – Flask web application for structured content display
+- **Simon Memory Game** – Interactive browser-based JavaScript application
